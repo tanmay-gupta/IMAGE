@@ -17,9 +17,4 @@ but Auto encoders process it as a Vector of pixels. The spacial relation of a im
 
 
 
-
-
-
-
-
 No. of epochs, Batch size is done by what fits best for my hardware, feel free to tweek it.
